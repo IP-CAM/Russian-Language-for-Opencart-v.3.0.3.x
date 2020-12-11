@@ -14,10 +14,11 @@ $languageData = [
 $currency_data = [
 	'title' =>  'Рубль',
 	'code'  =>  'RUB',
+	'value' =>  1,
 	'symbol_left'   =>  '',
 	'symbol_right'  =>  'руб',
 	'decimal_place' =>  2,
-	'status'    =>  1,
+	'status'    =>  0,
 ];
 
 $this->load->model('localisation/language');
