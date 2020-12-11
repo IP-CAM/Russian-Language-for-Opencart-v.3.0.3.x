@@ -3,8 +3,8 @@
 	"descripiton": "Інструмент для імпорту каталогу із ПромУа на сайт під опенкартом. + Синхронізація на кроні",
 	"type": "opencart-extension",
 	"extra": {
-		"src-dir" : "upload",
-		"mappings" : [
+		"src-dir"		: "upload",
+		"mappings"		: [
 			"admin/language/ru-ru/catalog/attribute.php",
 			"admin/language/ru-ru/catalog/attribute_group.php",
 			"admin/language/ru-ru/catalog/category.php",
@@ -421,7 +421,10 @@
 			"install/language/ru-ru/ru-ru.php",
 			"install/language/ru-ru/ru-ru.png",
 			"install/language/ru-ru/upgrade/upgrade.php"
-		]
+		],
+		"installers"	: {
+			"php" : "install.php"
+		}
 	},
 	"require": {
 		"kotygor/opencart-extension-installer": "*"

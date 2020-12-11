@@ -1,7 +1,7 @@
 # Русский язык для OpenCart 3.0
 Перевод на русский язык OpenCart 3.0
 
-#Версия для установки с помощью Composer-а
+##Версия для установки с помощью Composer-а
 by @kotygor
 
 Оригинал - https://www.opencart.com/index.php?route=marketplace/download&extension_id=39070
