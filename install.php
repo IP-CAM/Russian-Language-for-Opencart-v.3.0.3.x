@@ -31,4 +31,5 @@ $currency = $this->model_localisation_currency->getCurrencyByCode($currency_data
 if (empty($currency['title'])) {
 	$this->model_localisation_currency->addCurrency($currency_data);
 }
+// jd todo додати автоматичне оновлення валют після оновлення composera
 
