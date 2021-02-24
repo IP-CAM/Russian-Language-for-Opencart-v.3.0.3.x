@@ -410,7 +410,9 @@
 			"catalog/language/ru-ru/product/special.php",
 			"catalog/language/ru-ru/ru-ru.php",
 			"catalog/language/ru-ru/ru-ru.png",
-			"catalog/language/ru-ru/tool/upload.php",
+			"catalog/language/ru-ru/tool/upload.php"
+		],
+		"mappings-install": [
 			"install/language/ru-ru/common/column_left.php",
 			"install/language/ru-ru/common/footer.php",
 			"install/language/ru-ru/common/header.php",
