@@ -7,6 +7,7 @@
 $languageData = [
 	'name'  =>  "Русский",
 	'code'  =>  "ru-ru",
+	'url_code'  =>  'ru',
 	'locale'    =>  'ru_RU.UTF-8,ru_RU,russian',
 	'sort_order'    =>  0,
 	'status'    =>  1,
