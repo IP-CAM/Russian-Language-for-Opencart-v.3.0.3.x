@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']   = 'Закладки';
+$_['heading_title']   = 'Избранные';
 
 // Text
 $_['text_account']    = 'Личный кабинет';
