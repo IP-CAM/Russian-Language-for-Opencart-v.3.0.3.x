@@ -1,43 +1,43 @@
-# Русский язык для OpenCart 3.0
-Перевод на русский язык OpenCart 3.0
+# Russian for OpenCart 3.0
+Translation into Russian OpenCart 3.0
 
-##Версия для установки с помощью Composer-а
-by @kotygor
+## Installation version with Composer-A
+by @kotygor.
 
-Оригинал - https://www.opencart.com/index.php?route=marketplace/download&extension_id=39070
+Original - https://www.opencart.com/index.php?Route=MarketPlace/download&extension_id=39070
 
-## Переведены папки
-* admin
-* catalog
-* install (в т.ч. opencart.sql)
+## Folders are translated
+* admin.
+* Catalog
+* Install (including OpenCart.SQL)
 
-## Установка
-### Ручная установка русификатора для OpenCart 3:
-1. Скопируйте в корень Вашего магазина на OpenCart все из папки upload
-2. В панели управления перейти в "System -> Localisation -> Languages -> Add new"
-    * Language Name -> "Русский"
-    * Code -> "ru-ru"
-    * Locale -> "ru_RU.UTF-8,ru_RU,russian"
+## Installation
+### Crab hand set for OpenCart 3:
+1. Copy in the root of your store on OpenCart all from the Upload folder
+2. In the control panel, go to "System -> Localisation -> Languages ​​-> Add New"
+    * Language Name -> "Russian"
+    * Code -> "RU-RU"
+    * Locale -> "RU_RU.UTF-8, RU_RU, RUSSIAN"
     * Status -> "Enabled"
-    * Sort Order -> "1"
-3. Нажмите после заполнения "Save"
-4. В панели управления перейти в "System -> Settings -> Edit (You Store) -> Local tab"
-5. В меню Language выбрать "Русский"
-6. В меню Administration Language выбрать "Русский"
-7. Нажмите после выбора "Save"
+    * SORT ORDER -> "1"
+3. Click after filling out "Save"
+4. In the control panel, go to "System -> Settings -> Edit (You Store) -> Local Tab"
+5. In the Language menu, select "Russian"
+6. In the Administration Language menu, select "Russian"
+7. Click after selecting "Save"
 
-### Совместимые версии OpenCart
-* 3.0.3.x
+### compatible versions of OpenCart
+* 3.0.3.x.
 
-### Актуальная версия OpenCart
+### Actual version of OpenCart
 * 3.0.3.3
 
-### Ресурсы
-* [OpenCart](https://opencart.com/)
-* [Русскоязычное сообщество](https://forum.opencart.name/)
-* [Тема поддержки перевода](https://forum.opencart.name/resources/Русский-язык-для-opencart-3-0.9/)
+### Resources
+* [OpenCart] (https://opencart.com/)
+* [Russian-speaking community] (https://forum.opencart.name/)
+* [Translation support theme] (https://forum.opencart.name/resources/RUGSSIONSOBFL-OPENCART-3-0.9/)
 
-### Оригинальный опенкарт с интегрированным русификатором
-Русская сборка на базе оригинального опенкарт с переводом и установкой на русском языке
-* [Тема на форуме OpenCart Russian Edition 3](https://forum.opencart.name/resources/opencart-russian-edition.13/)
-* [Репозиторий OpenCart Russian Edition 3](https://github.com/ruOpenCart/opencart-russian-edition/releases)
+### Original Opencast with Integrated Rusifier
+Russian assembly based on the original Opencart with translation and installation in Russian
+* [Topic on the OpenCart Russian Edition 3 forum] (https://forum.opencart.name/resources/opencart-russian-edition.13/)
+* [Repository OpenCart Russian Edition 3] (https://github.com/ruopencart/opencart-russian-edition/releases)
